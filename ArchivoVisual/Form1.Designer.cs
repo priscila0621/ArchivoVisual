@@ -81,7 +81,7 @@
             // 
             this.tbName.Location = new System.Drawing.Point(108, 19);
             this.tbName.Name = "tbName";
-            this.tbName.Size = new System.Drawing.Size(147, 20);
+            this.tbName.Size = new System.Drawing.Size(78, 20);
             this.tbName.TabIndex = 4;
             // 
             // tbAge
@@ -95,7 +95,7 @@
             // 
             this.tbScore.Location = new System.Drawing.Point(108, 108);
             this.tbScore.Name = "tbScore";
-            this.tbScore.Size = new System.Drawing.Size(68, 20);
+            this.tbScore.Size = new System.Drawing.Size(78, 20);
             this.tbScore.TabIndex = 6;
             // 
             // tbGender
@@ -107,9 +107,9 @@
             // 
             // btnSave
             // 
-            this.btnSave.Location = new System.Drawing.Point(35, 217);
+            this.btnSave.Location = new System.Drawing.Point(63, 217);
             this.btnSave.Name = "btnSave";
-            this.btnSave.Size = new System.Drawing.Size(104, 36);
+            this.btnSave.Size = new System.Drawing.Size(104, 35);
             this.btnSave.TabIndex = 8;
             this.btnSave.Text = "Guardar";
             this.btnSave.UseVisualStyleBackColor = true;
@@ -117,7 +117,7 @@
             // 
             // btnShow
             // 
-            this.btnShow.Location = new System.Drawing.Point(188, 217);
+            this.btnShow.Location = new System.Drawing.Point(240, 217);
             this.btnShow.Name = "btnShow";
             this.btnShow.Size = new System.Drawing.Size(109, 35);
             this.btnShow.TabIndex = 9;
@@ -128,7 +128,7 @@
             // lbShow
             // 
             this.lbShow.FormattingEnabled = true;
-            this.lbShow.Location = new System.Drawing.Point(332, 26);
+            this.lbShow.Location = new System.Drawing.Point(206, 19);
             this.lbShow.Name = "lbShow";
             this.lbShow.Size = new System.Drawing.Size(180, 160);
             this.lbShow.TabIndex = 10;
@@ -137,7 +137,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(542, 291);
+            this.ClientSize = new System.Drawing.Size(418, 291);
             this.Controls.Add(this.lbShow);
             this.Controls.Add(this.btnShow);
             this.Controls.Add(this.btnSave);
